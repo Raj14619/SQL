@@ -1,0 +1,15 @@
+we use the code below to display information from specific column(s) from a table.
+
+SELECT COLUMN_1, COLUMN_2
+FROM TABLE_NAME;
+
+
+
+
+
+
+
+
+we use the code below to display all columns from a table
+
+SELECT * FROM TABLE_NAME;
